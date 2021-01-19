@@ -5,5 +5,6 @@ fetch and pull
 
 updates made on master before rebase
 
-## Purpose
-this file is just a readMe File
+## Repository Purpose
+this is the change that will conflict with
+whatever on the remote side
